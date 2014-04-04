@@ -1,0 +1,7 @@
+parameters:
+#    toga_test_mod.example.class: Toga\TestModBundle\Example
+
+services:
+#    toga_test_mod.example:
+#        class: %toga_test_mod.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
