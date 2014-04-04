@@ -24,7 +24,7 @@
         "symfony/console": "~2.3"
     },
     "autoload": {
-        "psr-0": { "Toga\\Bundle\\TogaTestModBundle": "" }
+        "psr-0": { "Toga\\TogaTestModBundle": "" }
     },
     "target-dir": "Toga/Bundle/TogaTestModBundle",
     "extra": {
