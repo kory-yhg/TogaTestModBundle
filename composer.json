@@ -26,7 +26,7 @@
     "autoload": {
         "psr-0": { "Toga\\TestModBundle": "" }
     },
-    "target-dir": "Toga/TogaTestModBundle",
+    "target-dir": "Toga/TestModBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "2.0.x-dev"

@@ -4,7 +4,7 @@
     "description": "This is for test",
     "keywords": ["sandbox"],
     "homepage": "http://2ga.net",
-    "license": "AGPL",
+    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "Hiroto Yahagi",
